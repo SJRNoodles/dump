@@ -15,7 +15,7 @@ function prompt2 () {
 	return prompt ("Vertical sling speed:");
 }
 function prompt3 () {
-	return prompt ("Rotational shake (degrees):");
+	return prompt ("Rotation (degrees):");
 }
 function prompt4 () {
 	return prompt ("Fade away? (y/n):");
